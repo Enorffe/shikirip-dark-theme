@@ -1,3 +1,5 @@
+# Shikirip Dark Theme
+
 Темная тема для [shikimori.rip](https://shikimori.rip)
 
 За основу взял стиль, который был сгенерирован через расширение Dark Reader. Потом чуть-чуть отредактировал его с помощью нейросетей. 
@@ -6,5 +8,6 @@
 
 Делал эту тему в первую очередь для себя. Хотел оригинальный интерфейс, но только в темной теме, а такой не было — пришлось самому что-то придумывать. Решил залить сюда, может, кому-то пригодится.
 
-`@import url("https://raw.githubusercontent.com/Enorffe/shikirip-dark-theme/main/style.css");`
+На телефоне тоже работает.
 
+`@import url("https://raw.githubusercontent.com/Enorffe/shikirip-dark-theme/main/style.css");`
